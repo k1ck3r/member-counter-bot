@@ -40,4 +40,4 @@ const api = {
     }
 };
 
-module.exports = [ api ];
+module.exports = [];
